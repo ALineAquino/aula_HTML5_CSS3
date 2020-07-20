@@ -1,0 +1,43 @@
+body {
+background: #fae9ff;
+margin-left: 50px;
+margin-right: 100px;
+}
+
+header {
+    margin-top: 100px;
+}
+
+h1 {
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+footer {
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    margin-right: 10px;
+    width: 250px;
+}
+
+.img_parceiros {
+    margin-bottom: 20px;
+    margin-right: 10px;
+    width: 120px;   
+}
+
+.logo {
+    width: 40px;
+}
